@@ -22,3 +22,6 @@ You can use the `spark-shell` for adhoc, exploratory analysis.
 	<Path_to_Spark>/spark-shell
 
 More information on Spark can be found at <http://spark.apache.org/documentation.html>.
+
+## Datasets
+Information about accessing and using the public datasets used in Hummus are located in the `data` directory. 
