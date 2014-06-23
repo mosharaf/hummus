@@ -1,6 +1,6 @@
 # Hummus
 
-Traceroute Analysis Toolkit based on Apache Spark
+Traceroute Analysis Toolkit based on Apache Spark.
 
 ## Making Hummus
 Hummus is built on `Scala 2.9.3` and `Apache Spark 0.8.1-incubating`. 
